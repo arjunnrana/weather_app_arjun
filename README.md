@@ -1,6 +1,6 @@
 # weather_app_arjun
 
-A new Flutter project.
+Flutter Weather app.
 
 ## Getting Started
 
